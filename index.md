@@ -42,4 +42,4 @@ CourtCheck is not intended for children under 13. We do not knowingly collect pe
 ## 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-**[Taobo Jin]** Email: **[你的 Gmail 地址]** Location: **Virginia, USA**
+**[Bo Tao]** Email: **taobo2000@gmail.com** 
