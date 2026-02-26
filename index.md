@@ -42,4 +42,11 @@ CourtCheck is not intended for children under 13. We do not knowingly collect pe
 ## 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-**[Bo Tao]** Email: **taobo2000@gmail.com** 
+---
+## Support & Contact
+If you encounter any issues with CourtCheck or have suggestions for new features, please reach out to us:
+
+* **Email**: taobo2000@gmail.com
+* **Location**: Serving the Tennis Community across the USA.
+* **Bug Reports**: Please open an issue on our GitHub repository.
+  
